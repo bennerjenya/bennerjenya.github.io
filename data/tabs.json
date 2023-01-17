@@ -1,0 +1,65 @@
+[
+  {
+    "position": "Frontend Developer (Remote)",
+    "period": "Aug 2020 - Mar 2022",
+    "location": "Moscow / Russia",
+    "responsibilities": [
+      "- Developing small games using JS and later VueJS(Router, Vuex, i18n)",
+      "- Developing multi page dating apps",
+      "- Developing multi page sport apps",
+      "- While worked learned VueJS"
+    ],
+    "name": "Many small apps"
+  },
+  {
+    "position": "Frontend Developer (Remote)",
+    "period": "Oct 2020 - Nov 2020",
+    "location": "Moscow / Russia",
+    "responsibilities": ["- Developing UI using Scrollmagic library"],
+    "name": "Zollaser"
+  },
+  {
+    "position": "Frontend Developer (Remote)",
+    "period": "Jan 2021 - Jun 2021",
+    "location": "Moscow / Russia",
+    "responsibilities": ["- Developing UI using NuxtJS"],
+    "name": "Petmode"
+  },
+  {
+    "position": "Frontend Developer (Remote)",
+    "period": "May 2021",
+    "location": "Moscow / Russia",
+    "responsibilities": ["- Developing UI using NuxtJS"],
+    "name": "YOD"
+  },
+  {
+    "position": "Frontend Developer (Remote)",
+    "period": "Nov 2021 - Apr 2022",
+    "location": "Moscow / Russia",
+    "responsibilities": [
+      "- Developing UI",
+      "- Learned basics of D3 library",
+      "- Learned how to solve big tasks",
+      "- Learned how to work in a team"
+    ],
+    "name": "Agro smart assistant"
+  },
+  {
+    "position": "Frontend Developer (Remote)",
+    "period": "Feb 2022 - Apr 2022",
+    "location": "Moscow / Russia",
+    "responsibilities": ["- Developing UI"],
+    "name": "Remer"
+  },
+  {
+    "position": "Middle Frontend Developer (Remote)",
+    "period": "Sep 2022 - current",
+    "location": "Ekaterinburg / Russia",
+    "responsibilities": [
+      "- Developing UI using NextJS",
+      "- Better knowledge of NextJS",
+      "- Started working in a new position"
+    ],
+    "name": "Company"
+  }
+]

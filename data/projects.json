@@ -1,5 +1,12 @@
 [
   {
+    "name": "W-PRO",
+    "image": "w-pro.png",
+    "links": ["", "https://w-pro.pro"],
+    "stack": "Nuxt3 - TypeScript - SwiperJS - SCSS",
+    "text": "Website"
+  },
+  {
     "name": "Petmode",
     "image": "petmode.PNG",
     "links": ["", ""],
@@ -38,13 +45,13 @@
     "name": "This portfolio",
     "image": "portfolio.jpg",
     "links": ["https://github.com/bennerjenya/portfolio", ""],
-    "stack": "Vue 3 - Pinia - TS - SCSS",
+    "stack": "Vue 3 - Composition API - Pinia - TS - SCSS",
     "text": "Just for fun"
   },
   {
     "name": "Pravoznay",
     "image": "pravoznay.jpg",
-    "links": ["", "http://devmirror1.ru/"],
+    "links": ["", "https://pravoznay.com/"],
     "stack": "Next - TS - Styled-Components - Formik - Yup",
     "text": "Website"
   },
